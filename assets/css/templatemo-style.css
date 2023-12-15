@@ -431,8 +431,8 @@ button:hover {
 }
 
 .service-item .service-icon {
-    width: 70px;
-    height: 70px;
+    width: 80px;
+    height: 80px;
     display: inline-block;
     margin-bottom: 30px;
     background-size: cover;
@@ -441,35 +441,39 @@ button:hover {
 }
 
 .service-item .first-service-icon {
-    background-image: url(../images/first-white-icon.png);
+    background-image: url(../images/js-icon-27.jpg);
+    width: 150px;
+    height: 85px;
 }
 
 .service-item:hover .first-service-icon {
-    background-image: url(../images/first-main-icon.png);
+    background-image: url(../images/js-icon-27.jpg);
 }
 
 .service-item .second-service-icon {
-    background-image: url(../images/second-white-icon.png);
+    background-image: url(../images/java-icon-images-11.jpg);
+    width: 93px;
+    height: 85px;
 }
 
 .service-item:hover .second-service-icon {
-    background-image: url(../images/second-main-icon.png);
+    background-image: url(../images/java-icon-images-11.jpg);
 }
 
 .service-item .third-service-icon {
-    background-image: url(../images/third-white-icon.png);
+    background-image: url(../images/unity-icon-png-4.jpg);
 }
 
 .service-item:hover .third-service-icon {
-    background-image: url(../images/third-main-icon.png);
+    background-image: url(../images/unity-icon-png-4.jpg);
 }
 
 .service-item .fourth-service-icon {
-    background-image: url(../images/fourth-white-icon.png);
+    background-image: url(../images/blender-3d-icon-9.jpg);
 }
 
 .service-item:hover .fourth-service-icon {
-    background-image: url(../images/fourth-main-icon.png);
+    background-image: url(../images/blender-3d-icon-9.jpg);
 }
 
 
