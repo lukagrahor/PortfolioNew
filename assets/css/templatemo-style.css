@@ -448,13 +448,13 @@ button:hover {
 }
 
 .service-item .second-service-icon {
-    background-image: url(../images/java-icon-images-11.jpg);
-    width: 93px;
-    height: 85px;
+    background-image: url(../images/cSharp.png);
+    width: 68px;
+    height: 77px;
 }
 
 .service-item:hover .second-service-icon {
-    background-image: url(../images/java-icon-images-11.jpg);
+    background-image: url(../images/cSharp.png);
 }
 
 .service-item .third-service-icon {
@@ -463,6 +463,10 @@ button:hover {
 
 .service-item:hover .third-service-icon {
     background-image: url(../images/unity-icon-png-4.jpg);
+}
+
+.unity-list{
+    margin-bottom: 0;
 }
 
 .service-item .fourth-service-icon {
@@ -684,7 +688,7 @@ section.contact-me {
     text-align: center;
 }
 
-#Java{
+#cSharp{
     padding:50px;
 }
 
